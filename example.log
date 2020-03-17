@@ -1,0 +1,12 @@
+start hello
+INFO:root:info kiteru
+ERROR:root:error kiteru
+WARNING:root:warning kiteru
+end hello
+start hello
+DEBUG:root:debug kiteru
+INFO:root:info kiteru
+DEBUG:root:debug kiteru
+ERROR:root:error kiteru
+WARNING:root:warning kiteru
+end hello
